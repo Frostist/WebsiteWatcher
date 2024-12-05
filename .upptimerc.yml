@@ -13,9 +13,9 @@ sites:
   - name: Britalian Site
     url: https://britalian.co.za
   - name: Qrescendo Site
-     url: https://qrescendo.co
+    url: https://qrescendo.co
   - name: Secret Network
-     url: https://scrt.network
+    url: https://scrt.network
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
