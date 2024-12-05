@@ -12,6 +12,12 @@ sites:
     method: GET
   - name: Britalian Site
     url: https://britalian.co.za
+  - name: Britalian Site
+    url: https://britalian.co.za
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Qrescendo Site
     url: https://qrescendo.co
   - name: Secret Network
