@@ -13,8 +13,10 @@ sites:
     url: https://qrescendo.co
   - name: Secret Network
     url: https://scrt.network
-  - name: My Site
+  - name: Will Frost Site
     url: https://willfrost.co.za
+  - name: Portfoliage
+    url: https://https://portfoliage.co
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
