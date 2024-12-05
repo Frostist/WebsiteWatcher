@@ -1,5 +1,7 @@
 # [📈 Live Status](https://Frostist.github.io/britalianuptime): <!--live status--> **🟩 All systems operational**
 
+Retrofitted for Britalian's websites to monitor uptime.
+
 [![Uptime CI](https://github.com/Frostist/britalianuptime/workflows/Uptime%20CI/badge.svg)](https://github.com/Frostist/britalianuptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Frostist/britalianuptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Frostist/britalianuptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/Frostist/britalianuptime/workflows/Graphs%20CI/badge.svg)](https://github.com/Frostist/britalianuptime/actions?query=workflow%3A%22Graphs+CI%22)
