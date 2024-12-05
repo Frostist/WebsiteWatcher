@@ -3,20 +3,12 @@ owner: Frostist # Your GitHub organization or username, where this repository li
 repo: britalianuptime # The name of this repository
 
 sites:
-  - name: Perffin Current Site
+  - name: Perffin Wordpress Site
     url: https://www.perffingroup.com
-  - name: Framer Site
+  - name: Perffin Framer Site
     url: https://perffingroup.framer.website
-  - name: GET from Perffin
-    url: https://www.perffingroup.com
-    method: GET
   - name: Britalian Site
     url: https://britalian.co.za
-  - name: Britalian Site
-    url: https://britalian.co.za
-    expectedStatusCodes:
-      - 201
-      - 404
   - name: Qrescendo Site
     url: https://qrescendo.co
   - name: Secret Network
