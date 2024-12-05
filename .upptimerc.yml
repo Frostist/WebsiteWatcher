@@ -5,13 +5,17 @@ repo: britalianuptime # The name of this repository
 sites:
   - name: Perffin Current Site
     url: https://www.perffingroup.com
-    icon: https://www.google.com/favicon.ico
   - name: Framer Site
     url: https://perffingroup.framer.website
-    icon: https://www.google.com/favicon.ico
   - name: GET from Perffin
     url: https://www.perffingroup.com
     method: GET
+  - name: Britalian Site
+    url: https://britalian.co.za
+  - name: Qrescendo Site
+     url: https://qrescendo.co
+  - name: Secret Network
+     url: https://scrt.network
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
