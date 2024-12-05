@@ -15,7 +15,6 @@ sites:
   - name: Britalian Site
     url: https://britalian.co.za
     expectedStatusCodes:
-      - 200
       - 201
       - 404
   - name: Qrescendo Site
