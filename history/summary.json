@@ -4,19 +4,19 @@
     "url": "https://www.perffingroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.perffingroup.com.ico",
     "slug": "perffin-wordpress-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1089,
-    "timeDay": 808,
-    "timeWeek": 1089,
-    "timeMonth": 1089,
-    "timeYear": 1089,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "97.10%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 1119,
+    "timeDay": 1193,
+    "timeWeek": 1119,
+    "timeMonth": 1119,
+    "timeYear": 1119,
     "dailyMinutesDown": {
-      "2024-12-10": 0
+      "2024-12-10": 42
     }
   },
   {
