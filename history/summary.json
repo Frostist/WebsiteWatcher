@@ -63,19 +63,19 @@
     "url": "https://scrt.network",
     "icon": "https://icons.duckduckgo.com/ip3/scrt.network.ico",
     "slug": "secret-network",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 874,
-    "timeDay": 198,
-    "timeWeek": 238,
-    "timeMonth": 874,
-    "timeYear": 874,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "94.14%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 853,
+    "timeDay": 149,
+    "timeWeek": 217,
+    "timeMonth": 853,
+    "timeYear": 853,
     "dailyMinutesDown": {
-      "2024-12-28": 0
+      "2024-12-28": 84
     }
   },
   {
