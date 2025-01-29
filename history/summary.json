@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.perffingroup.com.ico",
     "slug": "perffin-framer-site",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 591,
     "timeDay": 304,
     "timeWeek": 518,
@@ -101,10 +101,10 @@
     "url": "https://portfoliage.co",
     "icon": "https://icons.duckduckgo.com/ip3/portfoliage.co.ico",
     "slug": "portfoliage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 2278,
@@ -113,6 +113,7 @@
     "timeMonth": 2229,
     "timeYear": 2278,
     "dailyMinutesDown": {
+      "2025-01-29": 1,
       "2025-01-26": 16
     }
   },
@@ -121,11 +122,11 @@
     "url": "https://learning2learn.africa",
     "icon": "https://icons.duckduckgo.com/ip3/learning2learn.africa.ico",
     "slug": "learning2-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1847,
     "timeDay": 1534,
@@ -133,6 +134,7 @@
     "timeMonth": 1867,
     "timeYear": 1847,
     "dailyMinutesDown": {
+      "2025-01-29": 1,
       "2025-01-26": 15
     }
   },
@@ -141,11 +143,11 @@
     "url": "https://onguard.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/onguard.co.za.ico",
     "slug": "learning2-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1847,
     "timeDay": 1534,
@@ -153,6 +155,7 @@
     "timeMonth": 1867,
     "timeYear": 1847,
     "dailyMinutesDown": {
+      "2025-01-29": 1,
       "2025-01-26": 15
     }
   }
