@@ -101,10 +101,10 @@
     "url": "https://portfoliage.co",
     "icon": "https://icons.duckduckgo.com/ip3/portfoliage.co.ico",
     "slug": "portfoliage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 2299,
@@ -113,6 +113,7 @@
     "timeMonth": 2263,
     "timeYear": 2299,
     "dailyMinutesDown": {
+      "2025-02-05": 1,
       "2025-01-26": 16
     }
   },
@@ -121,11 +122,11 @@
     "url": "https://learning2learn.africa",
     "icon": "https://icons.duckduckgo.com/ip3/learning2learn.africa.ico",
     "slug": "learning2-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1868,
     "timeDay": 1600,
@@ -133,6 +134,7 @@
     "timeMonth": 1905,
     "timeYear": 1868,
     "dailyMinutesDown": {
+      "2025-02-05": 1,
       "2025-01-26": 15
     }
   },
@@ -141,11 +143,11 @@
     "url": "https://onguard.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/onguard.co.za.ico",
     "slug": "learning2-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1868,
     "timeDay": 1600,
@@ -153,6 +155,7 @@
     "timeMonth": 1905,
     "timeYear": 1868,
     "dailyMinutesDown": {
+      "2025-02-05": 1,
       "2025-01-26": 15
     }
   }
