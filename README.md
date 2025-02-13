@@ -26,9 +26,3 @@ Retrofitted for Britalian's websites to monitor uptime.
 <!--end: status pages-->
 
 [**Visit our status website →**](https://Frostist.github.io/britalianuptime)
-
-## 📄 License
-
-- Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com), supported by [Pabio](https://pabio.com)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
