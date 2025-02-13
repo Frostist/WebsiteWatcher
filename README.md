@@ -25,4 +25,3 @@ Retrofitted for Britalian's websites to monitor uptime.
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://Frostist.github.io/britalianuptime)
