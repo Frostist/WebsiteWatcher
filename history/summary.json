@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 624,
-    "timeDay": 876,
-    "timeWeek": 858,
-    "timeMonth": 707,
-    "timeYear": 624,
+    "time": 625,
+    "timeDay": 562,
+    "timeWeek": 886,
+    "timeMonth": 696,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2024-12-11": 80,
       "2024-12-05": 43
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1135,
-    "timeDay": 370,
-    "timeWeek": 341,
-    "timeMonth": 423,
-    "timeYear": 1135,
+    "time": 1127,
+    "timeDay": 369,
+    "timeWeek": 380,
+    "timeMonth": 388,
+    "timeYear": 1127,
     "dailyMinutesDown": {
       "2024-12-05": 3
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1464,
-    "timeDay": 1174,
-    "timeWeek": 1656,
-    "timeMonth": 1616,
-    "timeYear": 1464,
+    "time": 1463,
+    "timeDay": 1095,
+    "timeWeek": 1665,
+    "timeMonth": 1610,
+    "timeYear": 1463,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 509,
-    "timeDay": 233,
-    "timeWeek": 225,
-    "timeMonth": 231,
-    "timeYear": 509,
+    "time": 508,
+    "timeDay": 240,
+    "timeWeek": 266,
+    "timeMonth": 234,
+    "timeYear": 508,
     "dailyMinutesDown": {
       "2024-12-28": 103
     }
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 569,
-    "timeDay": 839,
-    "timeWeek": 878,
-    "timeMonth": 656,
+    "timeDay": 643,
+    "timeWeek": 854,
+    "timeMonth": 659,
     "timeYear": 569,
     "dailyMinutesDown": {}
   },
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 2323,
-    "timeDay": 2209,
-    "timeWeek": 2584,
-    "timeMonth": 2358,
-    "timeYear": 2323,
+    "time": 2335,
+    "timeDay": 2506,
+    "timeWeek": 2722,
+    "timeMonth": 2388,
+    "timeYear": 2335,
     "dailyMinutesDown": {
       "2025-01-26": 16
     }
@@ -122,16 +122,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/learning2learn.africa.ico",
     "slug": "learning2-learn",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1890,
-    "timeDay": 2020,
-    "timeWeek": 2112,
-    "timeMonth": 1958,
-    "timeYear": 1890,
+    "uptimeYear": "99.99%",
+    "time": 1894,
+    "timeDay": 1956,
+    "timeWeek": 2198,
+    "timeMonth": 1965,
+    "timeYear": 1894,
     "dailyMinutesDown": {
       "2025-01-26": 15
     }
