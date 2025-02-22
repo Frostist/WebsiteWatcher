@@ -25,10 +25,10 @@
     "url": "https://britalian.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/britalian.co.za.ico",
     "slug": "britalian-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 1187,
@@ -37,6 +37,7 @@
     "timeMonth": 695,
     "timeYear": 1187,
     "dailyMinutesDown": {
+      "2025-02-22": 1,
       "2025-02-17": 30,
       "2024-12-05": 3
     }
@@ -102,9 +103,9 @@
     "url": "https://portfoliage.co",
     "icon": "https://icons.duckduckgo.com/ip3/portfoliage.co.ico",
     "slug": "portfoliage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
@@ -114,6 +115,7 @@
     "timeMonth": 2346,
     "timeYear": 2314,
     "dailyMinutesDown": {
+      "2025-02-22": 1,
       "2025-02-18": 31,
       "2025-01-26": 16
     }
@@ -123,9 +125,9 @@
     "url": "https://learning2learn.africa",
     "icon": "https://icons.duckduckgo.com/ip3/learning2learn.africa.ico",
     "slug": "learning2-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.94%",
@@ -135,6 +137,7 @@
     "timeMonth": 1991,
     "timeYear": 1900,
     "dailyMinutesDown": {
+      "2025-02-22": 0,
       "2025-02-20": 21,
       "2025-02-18": 31,
       "2025-01-26": 15
