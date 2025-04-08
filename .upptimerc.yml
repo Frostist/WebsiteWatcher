@@ -19,6 +19,11 @@ sites:
     url: https://lisaloud.com
   - name: Fluidefi
     url: https://fluidefi.com
+  - name: Edunova
+    url: https://lms.edunova.org
+  - name: XLCareers
+    url: https://xlcareers.co.za
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
