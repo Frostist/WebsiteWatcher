@@ -33,7 +33,7 @@
     "uptimeYear": "99.97%",
     "time": 998,
     "timeDay": 443,
-    "timeWeek": 574,
+    "timeWeek": 590,
     "timeMonth": 503,
     "timeYear": 998,
     "dailyMinutesDown": {
@@ -103,9 +103,9 @@
     "url": "https://learning2learn.africa",
     "icon": "https://icons.duckduckgo.com/ip3/learning2learn.africa.ico",
     "slug": "learning2-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.86%",
@@ -115,6 +115,7 @@
     "timeMonth": 1835,
     "timeYear": 1896,
     "dailyMinutesDown": {
+      "2025-04-13": 0,
       "2025-04-02": 36,
       "2025-04-01": 22,
       "2025-03-25": 35,
