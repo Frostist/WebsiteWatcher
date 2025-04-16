@@ -4,9 +4,9 @@
     "url": "https://www.perffingroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.perffingroup.com.ico",
     "slug": "perffin-framer-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 604,
     "timeYear": 635,
     "dailyMinutesDown": {
+      "2025-04-16": 0,
       "2024-12-11": 80,
       "2024-12-05": 43
     }
@@ -104,15 +105,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/learning2learn.africa.ico",
     "slug": "learning2-learn",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 1898,
     "timeDay": 1745,
     "timeWeek": 1984,
-    "timeMonth": 1882,
+    "timeMonth": 1888,
     "timeYear": 1898,
     "dailyMinutesDown": {
       "2025-04-13": 41,
