@@ -1,4 +1,4 @@
-# [📈 Live Status](https://Frostist.github.io/britalianuptime): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://Frostist.github.io/websitewatcher): <!--live status--> **🟧 Partial outage**
 
 Retrofitted for Britalian's websites to monitor uptime.
 
