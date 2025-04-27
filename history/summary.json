@@ -13,7 +13,7 @@
     "time": 646,
     "timeDay": 543,
     "timeWeek": 744,
-    "timeMonth": 670,
+    "timeMonth": 678,
     "timeYear": 646,
     "dailyMinutesDown": {
       "2025-04-16": 22,
@@ -35,7 +35,7 @@
     "time": 957,
     "timeDay": 295,
     "timeWeek": 353,
-    "timeMonth": 523,
+    "timeMonth": 529,
     "timeYear": 957,
     "dailyMinutesDown": {
       "2025-02-22": 16,
@@ -57,7 +57,7 @@
     "time": 1688,
     "timeDay": 791,
     "timeWeek": 2801,
-    "timeMonth": 1998,
+    "timeMonth": 2034,
     "timeYear": 1688,
     "dailyMinutesDown": {}
   },
@@ -75,7 +75,7 @@
     "time": 377,
     "timeDay": 167,
     "timeWeek": 233,
-    "timeMonth": 240,
+    "timeMonth": 245,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2024-12-28": 103
@@ -95,7 +95,7 @@
     "time": 566,
     "timeDay": 290,
     "timeWeek": 366,
-    "timeMonth": 486,
+    "timeMonth": 492,
     "timeYear": 566,
     "dailyMinutesDown": {}
   },
@@ -104,18 +104,19 @@
     "url": "https://learning2learn.africa",
     "icon": "https://icons.duckduckgo.com/ip3/learning2learn.africa.ico",
     "slug": "learning2-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.84%",
     "time": 1902,
     "timeDay": 1333,
-    "timeWeek": 1905,
-    "timeMonth": 1979,
+    "timeWeek": 1990,
+    "timeMonth": 1980,
     "timeYear": 1902,
     "dailyMinutesDown": {
+      "2025-04-27": 0,
       "2025-04-17": 33,
       "2025-04-13": 41,
       "2025-04-02": 36,
@@ -145,7 +146,7 @@
     "time": 213,
     "timeDay": 118,
     "timeWeek": 209,
-    "timeMonth": 211,
+    "timeMonth": 213,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
