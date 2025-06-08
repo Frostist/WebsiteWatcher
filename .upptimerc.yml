@@ -23,7 +23,8 @@ sites:
     url: https://lms.edunova.org
   - name: XLCareers
     url: https://xlcareers.co.za
-    
+  - name: MailServer
+    url: https://mailserver.qrescendo.co    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
