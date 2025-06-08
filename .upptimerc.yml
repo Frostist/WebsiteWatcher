@@ -24,7 +24,9 @@ sites:
   - name: XLCareers
     url: https://xlcareers.co.za
   - name: MailServer
-    url: https://mailserver.qrescendo.co    
+    url: https://mailserver.qrescendo.co
+  - name: Perffin API
+    url: https://perffin-stock.britalian.workers.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
