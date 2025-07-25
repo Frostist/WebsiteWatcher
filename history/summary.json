@@ -238,9 +238,9 @@
     "url": "https://perffin-stock.britalian.workers.dev",
     "icon": "https://icons.duckduckgo.com/ip3/perffin-stock.britalian.workers.dev.ico",
     "slug": "perffin-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -250,6 +250,7 @@
     "timeMonth": 1731,
     "timeYear": 1778,
     "dailyMinutesDown": {
+      "2025-07-25": 0,
       "2025-06-10": 32
     }
   }
