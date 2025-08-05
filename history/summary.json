@@ -89,9 +89,9 @@
     "url": "https://willfrost.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/willfrost.co.za.ico",
     "slug": "will-frost-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -100,7 +100,9 @@
     "timeWeek": 661,
     "timeMonth": 552,
     "timeYear": 551,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-05": 0
+    }
   },
   {
     "name": "Learning2Learn",
@@ -116,7 +118,7 @@
     "time": 1986,
     "timeDay": 1608,
     "timeWeek": 1845,
-    "timeMonth": 2216,
+    "timeMonth": 2195,
     "timeYear": 1986,
     "dailyMinutesDown": {
       "2025-08-04": 27,
