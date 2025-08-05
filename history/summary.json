@@ -89,19 +89,19 @@
     "url": "https://willfrost.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/willfrost.co.za.ico",
     "slug": "will-frost-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 551,
-    "timeDay": 465,
-    "timeWeek": 661,
-    "timeMonth": 552,
+    "timeDay": 539,
+    "timeWeek": 655,
+    "timeMonth": 554,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2025-08-05": 0
+      "2025-08-05": 12
     }
   },
   {
