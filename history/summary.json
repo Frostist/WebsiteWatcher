@@ -12,7 +12,7 @@
     "uptimeYear": "99.94%",
     "time": 670,
     "timeDay": 768,
-    "timeWeek": 644,
+    "timeWeek": 639,
     "timeMonth": 625,
     "timeYear": 670,
     "dailyMinutesDown": {
@@ -37,7 +37,7 @@
     "uptimeYear": "99.99%",
     "time": 809,
     "timeDay": 1141,
-    "timeWeek": 768,
+    "timeWeek": 711,
     "timeMonth": 594,
     "timeYear": 809,
     "dailyMinutesDown": {
@@ -59,7 +59,7 @@
     "uptimeYear": "100.00%",
     "time": 1265,
     "timeDay": 321,
-    "timeWeek": 327,
+    "timeWeek": 320,
     "timeMonth": 312,
     "timeYear": 1265,
     "dailyMinutesDown": {}
@@ -77,7 +77,7 @@
     "uptimeYear": "99.97%",
     "time": 303,
     "timeDay": 535,
-    "timeWeek": 234,
+    "timeWeek": 227,
     "timeMonth": 179,
     "timeYear": 303,
     "dailyMinutesDown": {
@@ -91,18 +91,16 @@
     "slug": "will-frost-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 551,
     "timeDay": 1059,
-    "timeWeek": 651,
+    "timeWeek": 593,
     "timeMonth": 531,
     "timeYear": 551,
-    "dailyMinutesDown": {
-      "2025-08-09": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Learning2Learn",
@@ -117,7 +115,7 @@
     "uptimeYear": "99.78%",
     "time": 1988,
     "timeDay": 2886,
-    "timeWeek": 1975,
+    "timeWeek": 1957,
     "timeMonth": 2044,
     "timeYear": 1988,
     "dailyMinutesDown": {
@@ -161,7 +159,7 @@
     "uptimeYear": "100.00%",
     "time": 232,
     "timeDay": 231,
-    "timeWeek": 216,
+    "timeWeek": 212,
     "timeMonth": 223,
     "timeYear": 232,
     "dailyMinutesDown": {}
@@ -179,7 +177,7 @@
     "uptimeYear": "100.00%",
     "time": 203,
     "timeDay": 170,
-    "timeWeek": 229,
+    "timeWeek": 232,
     "timeMonth": 196,
     "timeYear": 203,
     "dailyMinutesDown": {}
@@ -197,7 +195,7 @@
     "uptimeYear": "100.00%",
     "time": 1458,
     "timeDay": 1569,
-    "timeWeek": 1490,
+    "timeWeek": 1470,
     "timeMonth": 1437,
     "timeYear": 1458,
     "dailyMinutesDown": {}
@@ -215,7 +213,7 @@
     "uptimeYear": "100.00%",
     "time": 1420,
     "timeDay": 1942,
-    "timeWeek": 1578,
+    "timeWeek": 1543,
     "timeMonth": 1402,
     "timeYear": 1420,
     "dailyMinutesDown": {}
@@ -226,18 +224,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mailserver.qrescendo.co.ico",
     "slug": "mail-server",
     "status": "down",
-    "uptime": "98.53%",
-    "uptimeDay": "8.26%",
-    "uptimeWeek": "86.89%",
-    "uptimeMonth": "96.98%",
-    "uptimeYear": "98.53%",
+    "uptime": "98.34%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.12%",
+    "uptimeMonth": "96.58%",
+    "uptimeYear": "98.34%",
     "time": 1065,
     "timeDay": 0,
-    "timeWeek": 1111,
+    "timeWeek": 1123,
     "timeMonth": 1032,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2025-08-09": 1321
+      "2025-08-10": 140,
+      "2025-08-09": 1360
     }
   },
   {
@@ -253,7 +252,7 @@
     "uptimeYear": "99.91%",
     "time": 2104,
     "timeDay": 1905,
-    "timeWeek": 3167,
+    "timeWeek": 3238,
     "timeMonth": 2413,
     "timeYear": 2104,
     "dailyMinutesDown": {
