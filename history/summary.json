@@ -51,11 +51,11 @@
     "url": "https://qrescendo.co",
     "icon": "https://icons.duckduckgo.com/ip3/qrescendo.co.ico",
     "slug": "qrescendo-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1238,
     "timeDay": 298,
@@ -63,7 +63,7 @@
     "timeMonth": 318,
     "timeYear": 1238,
     "dailyMinutesDown": {
-      "2025-08-16": 12
+      "2025-08-16": 0
     }
   },
   {
@@ -209,11 +209,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mailserver.qrescendo.co.ico",
     "slug": "mail-server",
     "status": "up",
-    "uptime": "93.65%",
+    "uptime": "93.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "41.28%",
+    "uptimeWeek": "44.24%",
     "uptimeMonth": "85.62%",
-    "uptimeYear": "93.65%",
+    "uptimeYear": "93.67%",
     "time": 1060,
     "timeDay": 929,
     "timeWeek": 988,
