@@ -13,7 +13,7 @@
     "time": 672,
     "timeDay": 627,
     "timeWeek": 707,
-    "timeMonth": 631,
+    "timeMonth": 634,
     "timeYear": 672,
     "dailyMinutesDown": {
       "2025-07-23": 24,
@@ -38,7 +38,7 @@
     "time": 795,
     "timeDay": 637,
     "timeWeek": 338,
-    "timeMonth": 543,
+    "timeMonth": 544,
     "timeYear": 795,
     "dailyMinutesDown": {
       "2025-02-22": 16,
@@ -60,7 +60,7 @@
     "time": 1228,
     "timeDay": 280,
     "timeWeek": 300,
-    "timeMonth": 317,
+    "timeMonth": 316,
     "timeYear": 1228,
     "dailyMinutesDown": {
       "2025-08-16": 35
@@ -80,7 +80,7 @@
     "time": 300,
     "timeDay": 437,
     "timeWeek": 217,
-    "timeMonth": 201,
+    "timeMonth": 205,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2024-12-28": 103
@@ -100,7 +100,7 @@
     "time": 2005,
     "timeDay": 2725,
     "timeWeek": 2661,
-    "timeMonth": 2118,
+    "timeMonth": 2123,
     "timeYear": 2005,
     "dailyMinutesDown": {
       "2025-08-10": 28,
@@ -145,7 +145,7 @@
     "time": 232,
     "timeDay": 182,
     "timeWeek": 228,
-    "timeMonth": 226,
+    "timeMonth": 228,
     "timeYear": 232,
     "dailyMinutesDown": {}
   },
@@ -163,7 +163,7 @@
     "time": 203,
     "timeDay": 226,
     "timeWeek": 222,
-    "timeMonth": 201,
+    "timeMonth": 203,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -181,7 +181,7 @@
     "time": 1453,
     "timeDay": 1653,
     "timeWeek": 1375,
-    "timeMonth": 1414,
+    "timeMonth": 1410,
     "timeYear": 1453,
     "dailyMinutesDown": {}
   },
@@ -199,7 +199,7 @@
     "time": 1417,
     "timeDay": 1243,
     "timeWeek": 1394,
-    "timeMonth": 1388,
+    "timeMonth": 1397,
     "timeYear": 1417,
     "dailyMinutesDown": {}
   },
@@ -209,18 +209,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mailserver.qrescendo.co.ico",
     "slug": "mail-server",
     "status": "down",
-    "uptime": "93.80%",
-    "uptimeDay": "99.98%",
+    "uptime": "93.65%",
+    "uptimeDay": "88.39%",
     "uptimeWeek": "64.89%",
-    "uptimeMonth": "85.62%",
-    "uptimeYear": "93.80%",
+    "uptimeMonth": "85.24%",
+    "uptimeYear": "93.65%",
     "time": 1058,
     "timeDay": 0,
     "timeWeek": 974,
-    "timeMonth": 1024,
+    "timeMonth": 1026,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2025-08-17": 0,
+      "2025-08-18": 127,
+      "2025-08-17": 40,
       "2025-08-13": 620,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -241,8 +242,8 @@
     "uptimeYear": "99.92%",
     "time": 2052,
     "timeDay": 1637,
-    "timeWeek": 1575,
-    "timeMonth": 2358,
+    "timeWeek": 1569,
+    "timeMonth": 2388,
     "timeYear": 2052,
     "dailyMinutesDown": {
       "2025-07-25": 49,
