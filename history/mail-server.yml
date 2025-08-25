@@ -1,7 +1,7 @@
 url: https://mailserver.qrescendo.co
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-24T23:19:17.034Z
+status: up
+code: 200
+responseTime: 2318
+lastUpdated: 2025-08-25T09:19:25.673Z
 startTime: 2025-06-08T09:56:05.444Z
 generator: Upptime <https://github.com/upptime/upptime>
